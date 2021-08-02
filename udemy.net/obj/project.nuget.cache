@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "dgSpecHash": "pQyAh23oZQza1ynwtcshyyY6bLGk+MJagVmyDJZObKe0l0LQs6blAt1ySpeeHbCTFv++fnMuGw9JA/czo+LP7Q==",
+  "success": false,
+  "projectFilePath": "C:\\Users\\sripv\\source\\repos\\udemy.net\\udemy.net\\udemy.net.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1101",
+      "level": "Error",
+      "message": "Unable to find package Swashbuckle.AspNetCore. No packages exist with this id in source(s): Microsoft Visual Studio Offline Packages",
+      "libraryId": "Swashbuckle.AspNetCore",
+      "targetGraphs": [
+        "net5.0"
+      ]
+    }
+  ]
+}
